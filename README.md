@@ -1,1 +1,1 @@
-# C# Bank Ledger Console App written by Mark Kogon 11/2018, code needs to formatted, the tabs didn't come out right on the upload to github
+# C# Bank Ledger Console App written by Mark Kogon 11/2018, code needs to formatted, the tabs didn't come out right on the upload to github, this is the same code as what is in the latest-version-code-prompt-all-issues-fixed, renamed to be more descriptive of what the application is
